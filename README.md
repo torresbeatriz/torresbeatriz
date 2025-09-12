@@ -10,7 +10,7 @@ Entre em Contato!
 ---
 
 ## 🌐 Contato  
-[![Linkedin]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/beatriz-torres-957429248/))  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-torres-957429248/)  
 
 ---
 
