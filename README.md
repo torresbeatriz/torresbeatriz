@@ -1,16 +1,22 @@
-## Hi there 👋
+# Oi, meu nome é Beatriz 👋  
 
-<!--
-**torresbeatriz/torresbeatriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, trabalho com **Suporte de TI e Desenvolvimento FrontEnd** e estou buscando sempre aprender mais.  
+ 
+⭐Aprendendo constantemente para evoluir minhas skills
+⭐Pesquiso, aplico e anoto tudo que aprendo
 
-Here are some ideas to get you started:
+Entre em Contato!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Contato  
+[![Linkedin]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/beatriz-torres-957429248/))  
+
+---
+
+## 🚀 Tecnologias e Ferramentas  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
