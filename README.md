@@ -5,8 +5,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, trabalho com **Supo
 ⭐Aprendendo constantemente para evoluir minhas skills
 ⭐Pesquiso, aplico e anoto tudo que aprendo
 
-Entre em Contato!
-
 ---
 
 ## 🌐 Contato
