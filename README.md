@@ -1,6 +1,6 @@
 # Oi, meu nome é Beatriz 👋  
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, trabalho com **Suporte de TI e Desenvolvimento FrontEnd** e estou buscando sempre aprender mais.  
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, trabalho com **Suporte de TI e Desenvolvimento FrontEnd**.
  
 Aprendendo constantemente ⭐
 
