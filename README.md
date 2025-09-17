@@ -2,8 +2,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, trabalho com **Suporte de TI e Desenvolvimento FrontEnd** e estou buscando sempre aprender mais.  
  
-⭐Aprendendo constantemente para evoluir minhas skills
-⭐Pesquiso, aplico e anoto tudo que aprendo
+Aprendendo constantemente ⭐
 
 ---
 
