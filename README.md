@@ -7,13 +7,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, trabalho com **Supo
 
 ---
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-torres-957429248/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatriztores59@gmail.com)
-[![Telefone](https://img.shields.io/badge/Telefone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:15996788463)
-
-
----
-
 ## Ferramentas de trabalho ⭐
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
@@ -27,3 +20,12 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, trabalho com **Supo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
 </p>
+
+---
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-torres-957429248/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatriztores59@gmail.com)
+[![Telefone](https://img.shields.io/badge/Telefone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:15996788463)
+
+
+---
