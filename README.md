@@ -15,7 +15,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, trabalho com **Supo
 
 ---
 
-## 🚀 Tecnologias e Ferramentas  
+## Ferramentas de trabalho ⭐
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>
