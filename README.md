@@ -2,8 +2,6 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, trabalho com **Suporte de TI e Desenvolvimento FrontEnd**.
  
-Aprendendo constantemente ⭐
-
 ---
 
 ## Ferramentas de trabalho:
